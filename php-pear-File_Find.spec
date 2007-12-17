@@ -17,7 +17,6 @@ Requires:	php-pear
 BuildArch:	noarch
 BuildRequires:	dos2unix
 BuildRequires:	recode
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 File_Find, created as a replacement for its Perl counterpart, also
