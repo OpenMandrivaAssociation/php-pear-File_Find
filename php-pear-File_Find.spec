@@ -3,8 +3,8 @@
 %define		upstream_name	%{_class}_%{_subclass}
 
 Name:		php-pear-%{upstream_name}
-Version:	1.3.0
-Release:	%mkrel 4
+Version:	1.3.1
+Release:	%mkrel 1
 Summary:	A class that facillitates the search of filesystems
 License:	PHP License
 Group:		Development/PHP
