@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.3.1
-Release:	5
+Release:	6
 Summary:	A class that facillitates the search of filesystems
 License:	PHP License
 Group:		Development/PHP
